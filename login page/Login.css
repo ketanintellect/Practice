@@ -1,0 +1,21 @@
+form{
+    border: 3px solid black;  
+    border-radius: 1em;
+    
+    
+}
+
+input
+{
+    display: inline-block;
+    border: 1px solid ;
+    padding: 12px 20px;
+    margin: 8px 0 ;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.Container
+{
+    padding: 16px;
+}
